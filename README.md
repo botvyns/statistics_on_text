@@ -1,5 +1,5 @@
 # statistics_on_text
-A project in quantitative linguistics where statistics are calculated including:  
+A project in quantitative linguistics where statistics are calculated on [this](https://github.com/botvyns/statistics_on_text/blob/main/lem_pos_first.csv) and [this](https://github.com/botvyns/statistics_on_text/blob/main/lem_pos_second.csv) data (those represent the first and the second sample; for details see [this repo](https://github.com/botvyns/text_database)). Calculated statistics include:  
 
     1. absolute frequency
     2. average absolute frequency
