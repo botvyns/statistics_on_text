@@ -16,8 +16,3 @@ A project in quantitative linguistics where statistics are calculated on [this](
     13. chi-square
 
 Based on the results the null hypothesis is checked too.
-
-The [chapter_1.ipynb](https://github.com/botvyns/statistics_on_text/blob/main/chapter_1.ipynb) is notebook for dividing data into subsamples, creating frequency dictionaries and calculating distributions for absolute frequency and intervals (the later was performed manually in this notebook and automated in the second notebook). 
-
-The [chapter2_and_3.ipynb](https://github.com/botvyns/statistics_on_text/blob/main/chapter2_and_3.ipynb) contains a code to calculate previosly listed statistics and check the null hypothesis.
-
